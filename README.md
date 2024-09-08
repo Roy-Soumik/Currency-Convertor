@@ -1,8 +1,15 @@
-# React + Vite
+# CurrencyMate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CurrencyMate is a simple and intuitive currency converter that allows you to quickly and accurately convert between various currencies. Whether you're traveling, shopping online, or just curious about exchange rates, CurrencyMate has got you covered!
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Real-Time Conversion**: Get up-to-date exchange rates and convert currencies in real time.
+- **User-Friendly Interface**: Easy to navigate with a clean design.
+- **Multiple Currencies**: Supports a wide range of global currencies.
+- **Historical Data**: View historical exchange rates (if applicable).
+- **Customizable Rates**: Adjust rates according to your needs (if applicable).
+
+## Installation
+
+To use CurrencyMate, you need to clone this repository and install the necessary dependencies.
