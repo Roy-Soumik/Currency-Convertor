@@ -12,4 +12,4 @@ Quick Convert is a simple and intuitive currency converter that allows you to qu
 
 ## Installation
 
-To use CurrencyMate, you need to clone this repository and install the necessary dependencies.
+To use Quick Convert, you need to clone this repository and install the necessary dependencies.
