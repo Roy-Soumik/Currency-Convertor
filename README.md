@@ -1,6 +1,6 @@
-# CurrencyMate
+# Quick Convert
 
-CurrencyMate is a simple and intuitive currency converter that allows you to quickly and accurately convert between various currencies. Whether you're traveling, shopping online, or just curious about exchange rates, CurrencyMate has got you covered!
+Quick Convert is a simple and intuitive currency converter that allows you to quickly and accurately convert between various currencies. Whether you're traveling, shopping online, or just curious about exchange rates, Quick Convert has got you covered!
 
 ## Features
 
